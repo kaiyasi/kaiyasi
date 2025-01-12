@@ -96,6 +96,3 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaiyasi&show_icons=true&theme=radical" alt="Kaiyasi's GitHub Stats" />
 </p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaiyasi&theme=radical" alt="Kaiyasi's GitHub Streak Stats" />
-</p>
