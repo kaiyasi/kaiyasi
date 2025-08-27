@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://i.meee.com.tw/s9DrKwP.png" alt="Kaiyasi's Trophies" />
+    <img src="https://i.meee.com.tw/C1gm0h5.png" alt="Kaiyasi's Trophies" />
   </a>
 </p>
 
