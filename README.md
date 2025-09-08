@@ -28,7 +28,7 @@
   <a href="https://fb.com/zeng eric" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/nhisc34_zeng" target="_blank">
+  <a href="https://instagram.com/kaiyasi_0315" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/c/zeng eric" target="_blank">
