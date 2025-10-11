@@ -16,7 +16,7 @@
 ### 🌟 About Me
 - 🔭 I’m currently studying at **[Municipal Neihu Senior High School](https://www.nhsh.tp.edu.tw/)**
 - 🌱 Currently exploring **C++ | Vue.js | Laravel | Python**
-- 📝 Regularly sharing insights on [kaiyasi.myvnc.xyz](http://kaiyasi.gonets.top)
+- 📝 Regularly sharing insights on [kaiyasi.myvnc.xyz](http://blog.gonets.top)
 - 💬 Feel free to ask me about **Python** and **Vue.js**
 - 📫 Reach me at **zengcode0315@gmail.com**
 - ⚡ Fun Fact: **FI80oI9UZTVknJ5sZ2kxZ3V=**
