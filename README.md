@@ -95,7 +95,7 @@
 ### 📊 GitHub Stats:
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=kaiyasi"
+    src="https://github-readme-stats.vercel.app/api?username=kaiyasi&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400"
     alt="Kaiyasi's GitHub Stats"
   />
 </p>
