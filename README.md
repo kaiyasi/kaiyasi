@@ -1,101 +1,59 @@
-<h1 align="center">🌟 Hi 👋, I'm Kaiyasi 🌟</h1>
-<h3 align="center">🚀 A high school student developer and passionate learner 🚀</h3>
+<p align="center">
+  <img src="./assets/profile-banner.png" alt="Warm editorial illustration of a developer workspace" width="100%" />
+</p>
+
+<h1 align="center">Hi, I'm Kaiyasi.</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaiyasi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <strong>Student developer · builder of web tools · learning in public</strong><br />
+  Python · Go · Astro · React
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://i.meee.com.tw/C1gm0h5.png" alt="Kaiyasi's Trophies" />
-  </a>
+  <a href="https://gonets.top/">Website</a>
+  ·
+  <a href="http://blog.gonets.top">Blog</a>
+  ·
+  <a href="mailto:zengcode0315@gmail.com">Email</a>
+  ·
+  <a href="https://instagram.com/kaiyasi.0315">Instagram</a>
+  ·
+  <a href="https://discordapp.com/users/759651999036997672">Discord</a>
 </p>
 
----
-
-### 🌟 About Me
-- 🔭 I’m currently studying at **[Municipal Neihu Senior High School](https://www.nhsh.tp.edu.tw/)**
-- 🌱 Currently exploring **C++ | Vue.js | Laravel | Python**
-- 📝 Regularly sharing insights on [kaiyasi.myvnc.xyz](http://blog.gonets.top)
-- 💬 Feel free to ask me about **Python** and **Vue.js**
-- 📫 Reach me at **zengcode0315@gmail.com**
-- ⚡ Fun Fact: **FI80oI9UZTVknJ5sZ2kxZ3V=**
-
----
-
-### 🌐 Connect With Me:
 <p align="center">
-  <a href="https://fb.com/zeng eric" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/kaiyasi_0315" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/zeng eric" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
-  <a href="https://discordapp.com/users/759651999036997672" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=kaiyasi&label=PROFILE+VIEWS&color=38bdf8&style=flat-square" alt="Profile views" />
 </p>
 
----
+## About
 
-### 🛠️ Languages and Tools:
+I’m a student developer from Taipei and a recent graduate of [Municipal Neihu Senior High School](https://www.nhsh.tp.edu.tw/). I’ll be starting my first year at [National Chung Hsing University](https://www.nchu.edu.tw/) as a special-selection student in the Data and Scientific Computing Group of the Department of Applied Mathematics.
+
+I’m currently developing Throven, a self-hosted service platform that brings Git collaboration, application delivery, and infrastructure operations into one place. Hopefully, I’ll survive the “Feast of Mathematics” at university.
+
+## Featured projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [Ari-IME](https://github.com/kaiyasi/Ari-IME) | A Fcitx5 input method that lets Traditional Chinese and English flow together without mode switching. | C++ · Fcitx5 · libchewing |
+| [FourmKit](https://github.com/kaiyasi/FourmKit) | A semi-anonymous community platform with real-time interaction. | TypeScript · React · Flask · Docker |
+| [SITCON Camp 2026 — 官網](https://sitcon.camp/2026/) | The official camp website for the 2026 program, schedule, registration, and event information. | Astro · TypeScript |
+| [SITCON Camp 2026 — 大地遊戲](https://github.com/sitcon-tw/camp2026-game) | A knowledge-exploration game that turns camp missions and discovery into a shared game loop. | Go · React · MongoDB |
+
+## Toolbox
+
+`Python` `C++` `Vue.js` `Go` `React` `TypeScript` `Docker` `Git` `Linux`
+
+## Contribution log
+
 <p align="center">
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
-  </a>
+  <img src="./assets/contributions.svg" alt="Kaiyasi's contribution activity over the last year" width="100%" />
 </p>
 
----
-
-### 📊 GitHub Stats:
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kaiyasi&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400"
-    alt="Kaiyasi's GitHub Stats"
-  />
+  <sub>Updated automatically every day from GitHub's public contributions calendar.</sub>
+</p>
+
+<p align="center">
+  <em>「惨めなら抵抗し、悔しいなら前に進もう。」</em>
 </p>
